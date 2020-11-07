@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5sem\\TRiTPO\\FilmManager\\FilmManager\\FilmManager.csproj",
+      "projectUniqueName": "D:\\5sem\\FilmManager\\FilmManager\\FilmManager.csproj",
       "projectName": "FilmManager",
-      "projectPath": "D:\\5sem\\TRiTPO\\FilmManager\\FilmManager\\FilmManager.csproj",
+      "projectPath": "D:\\5sem\\FilmManager\\FilmManager\\FilmManager.csproj",
       "packagesPath": "C:\\Users\\masha\\.nuget\\packages\\",
-      "outputPath": "D:\\5sem\\TRiTPO\\FilmManager\\FilmManager\\obj\\",
+      "outputPath": "D:\\5sem\\FilmManager\\FilmManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

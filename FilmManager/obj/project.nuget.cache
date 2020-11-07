@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1xXDCv9JrZs8rkaJv5KoaZGAT3fHMBpErOm0ES2r9XUlFDxrY7qOjoGkWG6Be75I4MtdfLboOHQx9XeDU2MGUQ==",
+  "dgSpecHash": "9sVSha9CoOVFF19l/9v/hkdeZFRZ+C35pRJNlKoKdgdi6nflH0k+D9ZBOghVYQT5UjiHegBIW/pnwjCYjEvLeA==",
   "success": true,
-  "projectFilePath": "D:\\5sem\\TRiTPO\\FilmManager\\FilmManager\\FilmManager.csproj",
+  "projectFilePath": "D:\\5sem\\FilmManager\\FilmManager\\FilmManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
