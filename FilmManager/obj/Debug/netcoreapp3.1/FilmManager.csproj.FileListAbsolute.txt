@@ -20,7 +20,6 @@ D:\5sem\TRiTPO\FilmManager\FilmManager\obj\Debug\netcoreapp3.1\FilmManager.pdb
 D:\5sem\TRiTPO\FilmManager\FilmManager\obj\Debug\netcoreapp3.1\FilmManager.genruntimeconfig.cache
 D:\5sem\FilmManager\FilmManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\5sem\FilmManager\FilmManager\bin\Debug\netcoreapp3.1\appsettings.json
-D:\5sem\FilmManager\FilmManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\5sem\FilmManager\FilmManager\bin\Debug\netcoreapp3.1\FilmManager.exe
 D:\5sem\FilmManager\FilmManager\bin\Debug\netcoreapp3.1\FilmManager.deps.json
 D:\5sem\FilmManager\FilmManager\bin\Debug\netcoreapp3.1\FilmManager.runtimeconfig.json
@@ -38,3 +37,4 @@ D:\5sem\FilmManager\FilmManager\obj\Debug\netcoreapp3.1\staticwebassets\FilmMana
 D:\5sem\FilmManager\FilmManager\obj\Debug\netcoreapp3.1\FilmManager.dll
 D:\5sem\FilmManager\FilmManager\obj\Debug\netcoreapp3.1\FilmManager.pdb
 D:\5sem\FilmManager\FilmManager\obj\Debug\netcoreapp3.1\FilmManager.genruntimeconfig.cache
+D:\5sem\FilmManager\FilmManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\FilmManager.styles.css

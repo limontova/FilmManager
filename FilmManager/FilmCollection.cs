@@ -63,6 +63,17 @@ namespace FilmManager
             Films.Add(filmToAdd);
         }
 
+        public FilmInfo FindFilmById(int id)
+        {
+            List<FilmInfo> films = new List<FilmInfo>();
+            foreach (FilmInfo film in Films)
+            {
+                if (film.Id == id)
+                    return film;
+            }
+            return new FilmInfo();
+        }
+
         private List<FilmInfo> QuickSort(List<FilmInfo> listToSort)
         {
             if (listToSort.Count <= 1)
@@ -82,7 +93,7 @@ namespace FilmManager
                 }
                 else
                 {
-                    right.Add(listToSort[i]);
+                    right.Add(listToSort[i]);   
                 }
             }
 

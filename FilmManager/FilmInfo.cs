@@ -24,15 +24,21 @@ namespace FilmManager
             this.Title = title;
             Actors = new List<string>();
             Director = new string("");
-
+            Id = IdOfNextFilm;
+            IdOfNextFilm++;
         }
+
         public FilmInfo()
         {
             Title = new string("");
             Actors = new List<string>();
             Director = new string("");
             Keywords = new List<string>();
+            Id = IdOfNextFilm;
+            IdOfNextFilm++;
         }
+        public static int IdOfNextFilm { set; get; } = 0;
+        public int Id { set; get; }
         public string Title { set; get; }
         public IEnumerable<string> Actors { set; get; }
         public string Director { set; get; }
